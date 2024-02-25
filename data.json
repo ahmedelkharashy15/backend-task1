@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "firstName": "ahmed",
+        "lastName": "mohamed",
+        "age": 20,
+        "city": "cairo"
+    },
+    {
+        "id": 3,
+        "firstName": "ziad",
+        "lastName": "hamdy",
+        "age": 25,
+        "city": "aswan"
+    },
+    {
+        "id": 5,
+        "firstName": "youssef",
+        "lastName": "mohamed",
+        "age": 28,
+        "city": "cairo"
+    },
+    {
+        "id": 7,
+        "firstName": "khaled",
+        "lastName": "tawfik",
+        "age": 19,
+        "city": "luxor"
+    },
+    {
+        "id": 9,
+        "firstName": "hazem",
+        "lastName": "wahba",
+        "age": 40,
+        "city": "ismailia"
+    },
+    {
+        "id": 10,
+        "firstName": "wael",
+        "lastName": "salim",
+        "age": 32,
+        "city": "cairo"
+    }
+]
